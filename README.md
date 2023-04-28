@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Millniker" target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<p>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+  
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millniker)](https://github.com/anuraghazra/github-readme-stats)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
